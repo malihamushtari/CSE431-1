@@ -1,17 +1,17 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1kPteA1FfhdxnMrqdK-AIHzQEPzfivypD9_ronpTbtGc/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education.
 
 Link to the paper:
-https://ieeexplore......
+https://www.edu.sot.tum.de/fileadmin/w00bed/hctl/_my_direct_uploads/ChatGPT_for_Good_.pdf
 
 Group Number:
-0
+25
 
 Individual Submitter:
-12345678 Name A
+19201003 MD. Abir Rahman
